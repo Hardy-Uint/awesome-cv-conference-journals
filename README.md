@@ -1,7 +1,10 @@
-# awesome-cv-conference-journals
-Summary of conference journals in computer vision
-
 # awesome-CV-conference-journals
+
+> 整理：Tom Hardy
+>
+> 来源：[3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=691734513&lang=zh_CN#rd)
+>
+> 主要针对计算机视觉、3D视觉、深度学习、SLAM、点云处理、三维重建相关领域会议、期刊进行了汇总。
 
 ## 3D视觉/机器视觉：
 
@@ -149,8 +152,6 @@ MICCAI：http://www.miccai.org/ [每年10月： International Conference on Medi
 ISBI：http://2020.biomedicalimaging.org/ [每年4月：International Symposium on Biomedical Imaging]
 
 MIDL：https://2020.midl.io/[每年4月：International Symposium on Biomedical Imaging]
-
-
 
 ## 基于时间汇总
 
